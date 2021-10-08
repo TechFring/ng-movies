@@ -1,0 +1,100 @@
+<aside class="sidebar">
+  <div class="sidebar-header">
+    <div class="input-search">
+      <i class="fas fa-search"></i>
+
+      <input type="search" placeholder="Search" (keyup)="onKeyUp($event)" />
+
+      <ul class="search-list" *ngIf="(searchList | async)?.length">
+        <li *ngFor="let title of searchList | async" (click)="onClick()">
+          <a routerLink="/{{ title.category }}/{{ title.id }}">
+            {{ title.name }}
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="titles">
+    <div class="popular-movies">
+      <h4>Popular Movies</h4>
+
+      <ul>
+        <li class="movie" *ngFor="let title of popularMovies | async">
+          <a routerLink="/{{ title.category }}/{{ title.id }}">
+            <img [src]="title.poster" alt="Poster" />
+          </a>
+
+          <div class="movie-desc">
+            <h4>{{ title.name }}</h4>
+
+            <span>{{ title.genre }}</span>
+
+            <div class="movie-stars">
+              <i
+                *ngFor="let text of handleStars(title.stars)"
+                class="fas fa-star {{ text }}"
+              ></i>
+            </div>
+          </div>
+        </li>
+      </ul>
+
+      <button class="btn-secondary" routerLink="/movie">See More</button>
+    </div>
+
+    <div class="popular-tv-shows">
+      <h4>Popular TV Shows</h4>
+
+      <ul>
+        <li class="movie" *ngFor="let title of popularTVShows | async">
+          <a routerLink="/{{ title.category }}/{{ title.id }}">
+            <img [src]="title.poster" alt="Poster" />
+          </a>
+
+          <div class="movie-desc">
+            <h4>{{ title.name }}</h4>
+
+            <span>{{ title.genre }}</span>
+
+            <div class="movie-stars">
+              <i
+                *ngFor="let text of handleStars(title.stars)"
+                class="fas fa-star {{ text }}"
+              ></i>
+            </div>
+          </div>
+        </li>
+      </ul>
+
+      <button class="btn-secondary" routerLink="/tv-show">See More</button>
+    </div>
+
+    <div class="popular-animes">
+      <h4>Popular Animes</h4>
+
+      <ul>
+        <li class="movie" *ngFor="let title of popularAnimes | async">
+          <a routerLink="/{{ title.category }}/{{ title.id }}">
+            <img [src]="title.poster" alt="Poster" />
+          </a>
+
+          <div class="movie-desc">
+            <h4>{{ title.name }}</h4>
+
+            <span>{{ title.genre }}</span>
+
+            <div class="movie-stars">
+              <i
+                *ngFor="let text of handleStars(title.stars)"
+                class="fas fa-star {{ text }}"
+              ></i>
+            </div>
+          </div>
+        </li>
+      </ul>
+
+      <button class="btn-secondary" routerLink="/anime">See More</button>
+    </div>
+  </div>
+</aside>

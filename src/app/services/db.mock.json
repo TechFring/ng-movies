@@ -1,0 +1,380 @@
+[
+  {
+    "id": 1,
+    "name": "Avengers: Infinity War",
+    "year": 2018,
+    "director": "Anthony Russo, Joe Russo",
+    "genre": "Sci-fi, Action",
+    "description": "Following the events of Avengers: Endgame, Spider-Man must step up to take on new threats in a world that has changed forever.",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/Avengers_Infinity_War.jpg/250px-Avengers_Infinity_War.jpg",
+    "cover": "https://wallpaperaccess.com/full/1104121.jpg",
+    "scenes": [
+      "https://wallpaperaccess.com/full/152420.jpg",
+      "https://bgr.com/wp-content/uploads/2018/04/avengers-infinity-war1.jpg?quality=70&strip=all",
+      "https://www.gannett-cdn.com/-mm-/1489f3862aaa20f922fe6847ba849f667a8a397a/c=0-0-3731-2108/local/-/media/2018/07/29/USATODAY/USATODAY/636685032585859237-InfinityWar5ac2dbd3a2f43.jpg",
+      "https://media.wired.com/photos/5ae7ac806980dc4b09488302/191:100/w_2400,h_1256,c_limit/InfinityWarCrosstalk.jpg"
+    ],
+    "stars": 4,
+    "category": "movie"
+  },
+  {
+    "id": 2,
+    "name": "Spider-Man: Far From Home",
+    "year": 2019,
+    "director": "Jon Watts",
+    "genre": "Fantasy, Sci-fi",
+    "description": "Iron Man, Thor, the Hulk and the rest of the Avengers unite to battle their most powerful enemy yet -- the evil Thanos. On a mission to collect all six Infinity Stones, Thanos plans to use the artifacts to inflict his twisted will on reality.",
+    "poster": "https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/3/35/Official_FFH_US_Poster.jpg/revision/latest?cb=20190522171521",
+    "cover": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/10af0b39-a57e-4f10-aeb1-fd388299ed5b/dd30sej-ba00f8a2-fdcf-48ad-8681-e507010cba43.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEwYWYwYjM5LWE1N2UtNGYxMC1hZWIxLWZkMzg4Mjk5ZWQ1YlwvZGQzMHNlai1iYTAwZjhhMi1mZGNmLTQ4YWQtODY4MS1lNTA3MDEwY2JhNDMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pWIARDMHQJbaWljid6OPz2QhIqDTW5DPZW3cXG-iUEA",
+    "scenes": [
+      "https://i.pinimg.com/originals/ce/24/ec/ce24ececac8239fa3ad801b95837884e.jpg",
+      "https://pbs.twimg.com/media/E9bcY7tWYAUD-9P.jpg",
+      "https://a-static.besthdwallpaper.com/marvel-spider-man-far-from-home-movie-scene-papel-de-parede-14578_L.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/642/416/1019/spider-man-spider-man-far-from-home-mysterio-marvel-comics-tower-bridge-hd-wallpaper-preview.jpg"
+    ],
+    "stars": 4,
+    "category": "movie"
+  },
+  {
+    "id": 3,
+    "name": "Thor: Ragnarok",
+    "year": 2017,
+    "director": "Taika Waititi",
+    "genre": "Fantasy, Sci-fi",
+    "description": "Imprisoned on the other side of the universe, the mighty Thor finds himself in a deadly gladiatorial contest that pits him against the Hulk, his former ally and fellow Avenger.",
+    "poster": "https://img.elo7.com.br/product/zoom/267865A/big-poster-filme-marvel-thor-ragnarok-lo01-tamanho-90x60-cm-vingadores-ultimato.jpg",
+    "cover": "https://images7.alphacoders.com/821/thumb-1920-821364.jpg",
+    "scenes": [
+      "https://wallpaperaccess.com/full/222191.jpg",
+      "https://images7.alphacoders.com/973/973877.jpg",
+      "https://1.bp.blogspot.com/-e13RBTtJPW4/WdBfWp-qf9I/AAAAAAAB8gw/ym5yTjIwaFcF2gV88-rOr05zxa7lCpABACLcBGAs/s1600/wallpaper-para-pc-de-thor-ragnarok-baixar.jpg",
+      "https://img.cinemablend.com/filter:scale/quill/1/8/6/3/c/2/1863c295310e83d309737b97a414a428e481054f.jpg?fw=1200"
+    ],
+    "stars": 5,
+    "category": "movie"
+  },
+  {
+    "id": 4,
+    "name": "Joker",
+    "year": 2019,
+    "director": "Charles Roven",
+    "genre": "Crime, Drama, Thriller",
+    "description": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+    "poster": "https://img.elo7.com.br/product/zoom/2A1A4B7/big-poster-filme-joker-coringa-joaquin-phoenix-tam-90x60-cm-nerd.jpg",
+    "cover": "https://wallpaperaccess.com/full/2116417.jpg",
+    "scenes": [
+      "https://images.hdqwalls.com/wallpapers/joker-2019-movie-4k-g0.jpg",
+      "https://images.hdqwalls.com/wallpapers/joker-2019-movie-4k-new-pw.jpg",
+      "https://wallpaperforu.com/wp-content/uploads/2020/06/jocker-wallpaper-20061117180750-scaled.jpg",
+      "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/joker-joaquin-phoenix-1567084475.jpg"
+    ],
+    "stars": 5,
+    "category": "movie"
+  },
+  {
+    "id": 5,
+    "name": "The Suicide Squad",
+    "year": 2021,
+    "director": "Todd Phillips",
+    "genre": "Action, Adventure, Comedy, Sci-Fi",
+    "description": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
+    "poster": "https://cdn.shopify.com/s/files/1/0037/8008/3782/products/IMG_5050-868810_1024x1024@2x.jpg?v=1622506700",
+    "cover": "https://wallpaperaccess.com/full/6381170.jpg",
+    "scenes": [
+      "https://cdn.flickeringmyth.com/wp-content/uploads/2021/07/the-suicide-squad-1.jpg",
+      "https://www.indiewire.com/wp-content/uploads/2021/08/rev-1-SS2-17302-JMr_High_Res_JPEG-e1627417959822.jpeg?w=780",
+      "https://i1.wp.com/batman-news.com/wp-content/uploads/2021/01/The-Suicide-Squad-HBO-Max-Sizzle-01-2021-06.jpg?resize=1200%2C628&quality=80&strip=info&ssl=1",
+      "https://lwlies.com/wp-content/uploads/2021/07/the-suicide-squad-margot.jpg"
+    ],
+    "stars": 3,
+    "category": "movie"
+  },
+  {
+    "id": 6,
+    "name": "Shang-Chi",
+    "year": 2021,
+    "director": "Kevin Feige",
+    "genre": "Action, Adventure, Fantasy, Sci-Fi",
+    "description": "Shang-Chi, the master of unarmed weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+    "poster": "https://pbs.twimg.com/media/E7jBROoVUAE5Nhd.jpg",
+    "cover": "https://thestreamable.com/media/pages/news/how-to-watch-marvel-studios-legends-the-ten-rings-on-apple-tv-roku-fire-tv-and-mobile/5e3ec83858-1630453580/shang-chi1.jpg",
+    "scenes": [
+      "https://www.indiewire.com/wp-content/uploads/2021/08/TLM1260_cmp_fin_v0021.1111_R2-e1629653921306.jpg?w=780",
+      "https://cdn.vox-cdn.com/thumbor/tVLA8dxjbS9cmMUJBp8U-zl4omI=/0x0:4298x2868/1200x800/filters:focal(1966x176:2652x862)/cdn.vox-cdn.com/uploads/chorus_image/image/69811662/SBT_25156_R__1_.0.jpg",
+      "https://www.gannett-cdn.com/presto/2021/08/31/USAT/78fab86a-43d4-4581-887e-fbd590d572f2-TLT7160_cmp_rsp_v0006.1073_R_C.jpg?width=660&height=277&fit=crop&format=pjpg&auto=webp",
+      "https://img.cinemablend.com/filter:scale/quill/7/c/a/9/1/3/7ca9139d410858ead1059781775648bf9669fda8.jpg?mw=600"
+    ],
+    "stars": 3,
+    "category": "movie"
+  },
+  {
+    "id": 7,
+    "name": "Deadpool",
+    "year": 2016,
+    "director": "Simon Kinberg",
+    "genre": "Action, Adventure, Comedy, Sci-Fi",
+    "description": "This is the origin story of former Special Forces operative turned mercenary Wade Wilson, who after being subjected to a rogue experiment that leaves him with accelerated healing powers, adopts the alter ego Deadpool. Armed with his new abilities and a dark, twisted sense of humor, Deadpool hunts down the man who nearly destroyed his life.",
+    "poster": "https://img.elo7.com.br/product/zoom/1E3BBFE/big-poster-do-filme-deadpool-tamanho-90x-0-cm-loot-op-011-geek.jpg",
+    "cover": "https://www.pixel4k.com/wp-content/uploads/2018/09/deadpool-movie-hd_1536362270.jpg",
+    "scenes": [
+      "https://images3.alphacoders.com/678/thumb-1920-678085.jpg",
+      "http://images6.fanpop.com/image/photos/39200000/Deadpool-movie-wallpaper-deadpool-2016-39207022-1920-1080.jpg",
+      "https://cinesiageek.com.br/wp-content/uploads/2017/01/Deadpool-Reading-Screenshot-Movie-2016-Wallpaper.jpg",
+      "https://updatefreak.com/wp-content/uploads/2018/05/deadpool-love-1920x1080.jpg"
+    ],
+    "stars": 4,
+    "category": "movie"
+  },
+  {
+    "id": 1,
+    "name": "Breaking Bad",
+    "year": 2013,
+    "director": "Vince Gilligan",
+    "genre": "Crime, Drama, Thriller",
+    "description": "When chemistry teacher Walter White is diagnosed with Stage III cancer and given only two years to live, he decides he has nothing to lose. He lives with his teenage son, who has cerebral palsy, and his wife, in New Mexico. Determined to ensure that his family will have a secure future, Walt embarks on a career of drugs and crime. He proves to be remarkably proficient in this new world as he begins manufacturing and selling methamphetamine with one of his former students. The series tracks the impacts of a fatal diagnosis on a regular, hard working man, and explores how a fatal diagnosis affects his morality and transforms him into a major player of the drug trade.",
+    "poster": "https://br.web.img3.acsta.net/c_310_420/pictures/14/03/31/19/28/462555.jpg",
+    "cover": "https://istoe.com.br/wp-content/uploads/sites/14/2016/08/3805680732.jpg",
+    "scenes": [
+      "https://rollingstone.uol.com.br/media/_versions/bryancranston-walterwhite-breaking_bad-divulgacao_widelg.jpg",
+      "https://cdn.ome.lt/_cN6PFayWRZeuv5pUIufSeJl-jg=/1200x630/smart/extras/conteudos/1_JFiU1xg.jpg",
+      "https://feriasdecinema.com/wp-content/uploads/2017/04/breaking-bad-capa.jpg",
+      "https://www.einerd.com.br/wp-content/uploads/2020/08/breaking-bad-walter-white-e1597063635764-890x464.jpg"
+    ],
+    "stars": 5,
+    "category": "tv-show"
+  },
+  {
+    "id": 2,
+    "name": "Chernobyl",
+    "year": 2019,
+    "director": "Johan Renck",
+    "genre": "Drama, History, Thriller",
+    "description": "In April 1986, a huge explosion erupted at the Chernobyl nuclear power station in northern Ukraine. This series follows the stories of the men and women, who tried to contain the disaster, as well as those who gave their lives preventing a subsequent and worse one.",
+    "poster": "https://metagalaxia.com.br/wp-content/uploads/2019/06/chernobyl-hbo-resenha-poster.jpg",
+    "cover": "https://ninfacrocodilo.com/wp-content/uploads/2019/06/chernobyl-serie-hbo-11.jpg",
+    "scenes": [
+      "https://www.curtamais.com.br/uploads/conteudos/d08dca02e1a07bce5ebd70d883a39f62.jpg",
+      "https://c4.wallpaperflare.com/wallpaper/1010/701/293/chernobyl-pripyat-ferris-wheel-call-of-duty-4-modern-warfare-wallpaper-preview.jpg",
+      "https://f.i.uol.com.br/fotografia/2019/06/10/15601622445cfe2fc49c5c3_1560162244_16x9_md.jpg",
+      "https://images6.alphacoders.com/102/thumb-1920-1022450.jpg"
+    ],
+    "stars": 5,
+    "category": "tv-show"
+  },
+  {
+    "id": 3,
+    "name": "Game of Thrones",
+    "year": 2019,
+    "director": "Mark Huffam",
+    "genre": "Action, Adventure, Drama, Fantasy",
+    "description": "In the mythical continent of Westeros, several powerful families fight for control of the Seven Kingdoms. As conflict erupts in the kingdoms of men, an ancient enemy rises once again to threaten them all. Meanwhile, the last heirs of a recently usurped dynasty plot to take back their homeland from across the Narrow Sea.",
+    "poster": "https://br.web.img3.acsta.net/pictures/19/03/21/16/15/4239577.jpg",
+    "cover": "https://www.einerd.com.br/wp-content/uploads/2018/10/ned-stark-game-of-thrones-e1540215132405.jpg",
+    "scenes": [
+      "https://popnow.com.br/wp-content/uploads/2021/05/3601405.jpg",
+      "https://imagens.brasil.elpais.com/resizer/l98DHqagRXeFMkq-Q8ynWcRlkXg=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/USPGFPPUV2GIOHZECDJUUCLHTQ.jpg",
+      "https://claudia.abril.com.br/wp-content/uploads/2019/10/game-of-thrones-s8-ep-6-post-air-images-2-1-scaled-2560.jpg",
+      "https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2019/05/2019-05-24-Game-of-Thrones-finale-1-Sansa-696x464.jpg"
+    ],
+    "stars": 5,
+    "category": "tv-show"
+  },
+  {
+    "id": 4,
+    "name": "Supernatural",
+    "year": 2020,
+    "director": "Eric Kripke",
+    "genre": "Drama, Fantasy, Horror, Mystery, Thriller",
+    "description": "John Winchester raised his two sons Sam and Dean to hunt and kill all things that go 'bump in the night' after his wife Mary was murdered by an evil supernatural being when the boys were little. 22 years later the brothers set out on a journey, fighting evil along the way, to find their recently-missing father; when they finally do he reveals he knows what demon killed their mother and has found a way to track and kill it.",
+    "poster": "https://upload.wikimedia.org/wikipedia/pt/b/bb/Supernatural_temporada_15_poster.jpg",
+    "cover": "https://c4.wallpaperflare.com/wallpaper/339/704/960/supernatural-full-hd-wallpaper-preview.jpg",
+    "scenes": [
+      "https://img.ibxk.com.br/2021/08/18/18102222270067.jpg",
+      "https://sm.ign.com/t/ign_br/screenshot/default/supernatural-season-15-cast-poster-1420x798_cnnm.h720.jpg",
+      "https://instacinematicos.com.br/wp-content/uploads/2021/06/Jared-Padalecki-Gutted-Over-No-Involvement-in-Supernatural-Prequel-%E2%80%93.jpg",
+      "https://images.alphacoders.com/496/thumb-1920-496644.jpg"
+    ],
+    "stars": 4,
+    "category": "tv-show"
+  },
+  {
+    "id": 5,
+    "name": "The Boys",
+    "year": 2020,
+    "director": "Hartley Gorenstein",
+    "genre": "Action, Crime, Drama, Sci-Fi",
+    "description": "The Boys is set in a universe in which superpowered people are recognized as heroes by the general public and owned by a powerful corporation, Vought International, which ensures that they are aggressively marketed and monetized.",
+    "poster": "https://sm.ign.com/ign_br/screenshot/default/butcher-clean-rgb_8snc.jpg",
+    "cover": "https://br.web.img3.acsta.net/newsv7/21/08/13/22/13/5135421.jpg",
+    "scenes": [
+      "https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/08/the-boys-1200x900-1.jpg",
+      "https://mixdeseries.com.br/wp-content/uploads/2021/08/The-Boys-3-temporada-serie.jpg",
+      "https://m.media-amazon.com/images/G/01/pv_starlight/theboys-s1-4f31a4b5-56d1-45ee-a26e-b55c48f3e99f/V2/THBY_S1_Butcher._CR840,0,1080,1080_.jpg",
+      "http://www.cineset.com.br/wp-content/uploads/2020/10/Critica-The-Boys-Season-Finale.jpg"
+    ],
+    "stars": 5,
+    "category": "tv-show"
+  },
+  {
+    "id": 6,
+    "name": "Stranger Things",
+    "year": 2016,
+    "director": "The Duffer Brothers",
+    "genre": "Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",
+    "description": "In a small town where everyone knows everyone, a peculiar incident starts a chain of events that leads to the disappearance of a child, which begins to tear at the fabric of an otherwise peaceful community. Dark government agencies and seemingly malevolent supernatural forces converge on the town, while a few of the locals begin to understand that there's more going on than meets the eye.",
+    "poster": "https://br.web.img2.acsta.net/pictures/19/07/10/20/01/2331295.jpg",
+    "cover": "https://exame.com/wp-content/uploads/2019/07/stranger-things.jpg",
+    "scenes": [
+      "https://imagens.brasil.elpais.com/resizer/pqf7evY5rmlRAzR1_Gemornxzss=/1960x0/vdmedia.elpais.com/elpaistop/20193/20/20190320131153_1553084081_still.jpg",
+      "https://www.gupy.io/hs-fs/hubfs/stranger-things-personagens-estagio.jpg?width=624&height=415&name=stranger-things-personagens-estagio.jpg",
+      "https://img.ibxk.com.br///2021/06/17/17122257186176.jpg?w=1200&h=675&mode=crop&scale=both",
+      "https://pop.proddigital.com.br/wp-content/uploads/sites/8/2021/05/stranger-things-3.jpg"
+    ],
+    "stars": 4,
+    "category": "tv-show"
+  },
+  {
+    "id": 7,
+    "name": "Peaky Blinders",
+    "year": 2019,
+    "director": "Steven Knight",
+    "genre": "Crime, Drama",
+    "description": "Thomas Shelby and his brothers return to Birmingham after serving in the British Army during WWI. Shelby and the Peaky Blinders, the gang he is leader of, control the city of Birmingham But as Shelby's ambitions extend beyond Birmingham, he plans to build on the business empire he's created, and stop anyone who gets in his way.",
+    "poster": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e60d59103015959.5f43f7d599ad9.jpg",
+    "cover": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/11/3615317-1200x675.jpg",
+    "scenes": [
+      "https://t.ctcdn.com.br/Bk3AgiAca9rX9p__1FOibnyfzLw=/0x139:1198x814/1198x674/smart/i419373.jpeg",
+      "https://epipoca.com.br/wp-content/uploads/2020/12/Pe-scaled.jpg",
+      "https://premierleaguebrasil.com.br/wp-content/uploads/2019/10/Peaky-Blinders-Netflix-divulga%C3%A7%C3%A3o-1.jpg",
+      "https://www.nit.pt/wp-content/uploads/2021/04/4a9abe39bd129b288f460d51cc4f4d45.jpg"
+    ],
+    "stars": 4,
+    "category": "tv-show"
+  },
+  {
+    "id": 1,
+    "name": "Shingeki no kyojin",
+    "year": 2022,
+    "director": "Hajime Isayama",
+    "genre": "Animation, Action, Adventure, Drama, Fantasy, Horror",
+    "description": "Humans are nearly exterminated by giant creatures called Titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source.",
+    "poster": "https://multversogeek.com.br/wp-content/uploads/2020/05/IMG_20200529_103655.jpg",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/81QRjjNX1RL.jpg",
+    "scenes": [
+      "https://i1.wp.com/heroisx.com/wp-content/uploads/2013/12/Shingeki-no-Kyojin-Attack-on-Titan.jpg",
+      "https://wallpaperaccess.com/full/36626.jpg",
+      "https://sm.ign.com/t/ign_br/screenshot/default/shingeki-no-kyojin-levi_3b77.1200.jpg",
+      "https://randomc.net/image/Shingeki%20no%20Kyojin/Shingeki%20no%20Kyojin%20-%2031%20-%20Large%2011.jpg"
+    ],
+    "stars": 5,
+    "category": "anime"
+  },
+  {
+    "id": 2,
+    "name": "Naruto: Shippuden",
+    "year": 2017,
+    "director": "Hayato Date",
+    "genre": "Animation, Action, Adventure, Comedy, Drama, Fantasy",
+    "description": "Naruto Uzumaki wants to be the best ninja in the land. He's done well so far, but with the looming danger posed by the mysterious Akatsuki organization, Naruto knows he must train harder than ever and leaves his village for intense exercises that will push him to his limits.",
+    "poster": "https://m.media-amazon.com/images/I/81qb4I6rbsL._AC_SL1500_.jpg",
+    "cover": "https://uploads.jovemnerd.com.br/wp-content/uploads/2017/03/v-naruto-1210x540.jpg",
+    "scenes": [
+      "https://i.redd.it/l7ql245wrbyz.png",
+      "https://i.pinimg.com/736x/28/8a/2a/288a2a63315b713a8a2f1fd9be5592fa.jpg",
+      "https://i.pinimg.com/736x/8c/d1/1f/8cd11f2df333cfa7b43fa995dc56cd78.jpg",
+      "https://cdn.vox-cdn.com/thumbor/hSeBne4Zs4vKI4FoCXsLXMQqV_g=/0x0:1280x721/1400x1050/filters:focal(538x259:742x463):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/53828865/naruto.0.jpg"
+    ],
+    "stars": 4,
+    "category": "anime"
+  },
+  {
+    "id": 3,
+    "name": "Tokyo Ghoul",
+    "year": 2014,
+    "director": "Sui Ishida",
+    "genre": "Animation, Action, Drama, Fantasy, Horror, Thriller",
+    "description": "The suspense horror/dark fantasy story is set in Tokyo, which is haunted by mysterious 'ghouls' who are devouring humans. People are gripped by the fear of these ghouls whose identities are masked in mystery. An ordinary college student named Kaneki encounters Rize, a girl who is an avid reader like him, at the café he frequents. Little does he realize that his fate will change overnight.",
+    "poster": "https://img.elo7.com.br/product/zoom/1F2E1D3/big-poster-anime-tokyo-ghoul-tamanho-90x-0-cm-lo05-decoracao-nerd.jpg",
+    "cover": "https://woomagazine.com.br/wp-content/uploads/2017/09/Tokyo_Ghoul_Jail_-_Teaser_Trailer.jpg",
+    "scenes": [
+      "https://ptanime.com/wp-content/uploads/2015/05/PI1_Tokyo-Ghoul-destaque.jpg",
+      "https://yokaipop.com.br/wp-content/uploads/2017/11/Diretor-Muda-Mas-Est%C3%BAdio-Pol%C3%AAmico-Continua-Com-Tokyo-Ghoul-1200x900.jpg",
+      "https://blogs.opovo.com.br/bancadoanime/wp-content/uploads/sites/59/2018/02/Tokyo-Ghoul-re-pn-740x500.jpg",
+      "https://s.aficionados.com.br/imagens/1444329365-1_cke.jpg"
+    ],
+    "stars": 4,
+    "category": "anime"
+  },
+  {
+    "id": 4,
+    "name": "One Piece",
+    "year": 2021,
+    "director": "Eiichiro Oda",
+    "genre": "Animation, Action, Adventure, Comedy, Drama, Fantasy",
+    "description": "There once lived a pirate named Gol D. Roger. He obtained wealth, fame, and power to earn the title of Pirate King. When he was captured and about to be executed, he revealed that his treasure called One Piece was hidden somewhere at the Grand Line.",
+    "poster": "https://img.elo7.com.br/product/zoom/1EDEDA1/big-poster-do-anime-one-piece-tamanho-90x-0-cm-lo003-decoracao-geek.jpg",
+    "cover": "https://kanto.legiaodosherois.com.br/w1200-h628-cfill/wp-content/uploads/2021/08/legiao_Y0n3ut2XlbKJ.jpg.jpeg",
+    "scenes": [
+      "https://img.olhardigital.com.br/wp-content/uploads/2021/09/one-piece-scaled.jpg",
+      "https://criticalhits.com.br/wp-content/uploads/2020/10/apps.22475.68417643288595839.fb540a6c-b47d-41aa-b827-6c0a02fb35c6.jpg",
+      "https://cdn.ome.lt/pBXgp4fN06Y1iMmKg3ItRYa1mss=/1200x630/smart/extras/conteudos/one-piece_UdGrqJY.jpg",
+      "https://observatoriodeseries.uol.com.br/wp-content/uploads/2021/07/20210221-tenis-one-piece-1200x675-1-1-1024x768.jpg"
+    ],
+    "stars": 4,
+    "category": "anime"
+  },
+  {
+    "id": 5,
+    "name": "Jujutsu Kaisen",
+    "year": 2020,
+    "director": "Sunghoo Park",
+    "genre": "Animation, Action, Adventure, Fantasy, Thriller",
+    "description": "Yuji Itadori, a kind-hearted teenager, joins his school's Occult Club for fun, but discovers that its members are actual sorcerers who can manipulate the energy between beings for their own use. He hears about a cursed talisman - the finger of Sukuna, a demon - and its being targeted by other cursed beings.",
+    "poster": "https://img.elo7.com.br/product/zoom/36DBD26/big-poster-jujutsu-kaisen-lo02-tamanho-90x60-cm-cartaz.jpg",
+    "cover": "https://observatoriodeseries.uol.com.br/wp-content/uploads/2021/05/jujutsu-kaisen-ufficiale-puntata-dell-anime-includera-scena-post-credit-inedita-v3-475769-1024x576.jpg",
+    "scenes": [
+      "https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2021/06/legiao_1QNDEMsxlCVZ.jpg.jpeg",
+      "https://criticalhits.com.br/wp-content/uploads/2021/09/Yuji-910x512.jpg",
+      "https://cosmonerd.com.br//uploads/2021/02/20210103-jujutsu-kaisen-19-1200x675-1-1024x576.png",
+      "https://cdn.ome.lt/E3yLDWgz93bl5dRrvpOdAKPNyCQ=/570x0/smart/uploads/conteudo/fotos/jujutsu-gojo.jpg"
+    ],
+    "stars": 4,
+    "category": "anime"
+  },
+  {
+    "id": 6,
+    "name": "Dragon Ball Super",
+    "year": 2018,
+    "director": "Kimitoshi Chioka",
+    "genre": "Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",
+    "description": "With Majin Buu defeated half-a-year prior, peace returns to Earth, where Son Goku (now a radish farmer) and his friends now live peaceful lives. However, a new threat appears in the form of Beerus, the God of Destruction. Considered the most terrifying being in the entire universe, Beerus is eager to fight the legendary warrior seen in a prophecy foretold decades ago known as the Super Saiyan God.",
+    "poster": "https://img.elo7.com.br/product/zoom/2C1D44B/big-poster-anime-dragon-ball-super-lo018-tamanho-90x60-cm-decoracao-geek.jpg",
+    "cover": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2019/05/0_w7QZZNZK_wWqXgK1.jpg",
+    "scenes": [
+      "https://kanto.legiaodosherois.com.br/w1200-h628-cfill/wp-content/uploads/2021/06/legiao_ZwfMIGDoFqrU.jpg.jpeg",
+      "https://uploads.jovemnerd.com.br/wp-content/uploads/2018/01/v-dragon-ball-super-4-1210x540.jpg",
+      "https://cdn.vox-cdn.com/thumbor/dAATSMRpBqCEtmPwSe_A0IGzkBg=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/13679539/FunFilms_DBSBroly_Landing.jpg",
+      "https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2021/08/legiao_vARmwzDXVrUT.png.jpeg"
+    ],
+    "stars": 4,
+    "category": "anime"
+  },
+  {
+    "id": 7,
+    "name": "Dragon Ball Z",
+    "year": 2003,
+    "director": "Daisuke Nishio",
+    "genre": "Animation, Action, Adventure, Fantasy, Sci-Fi, Thriller",
+    "description": "In the version that is shown on YTV in Canada, the story begins mid-way through the Dragon Ball Z series. Raditz, Goku's brother has traveled to Earth to find out why Goku has not yet destroyed the planet as he was supposed to do.",
+    "poster": "https://img.elo7.com.br/product/zoom/2C1AD1F/big-poster-anime-dragon-ball-z-lo014-tamanho-90x60-cm-presente-nerd.jpg",
+    "cover": "https://img.olhardigital.com.br/wp-content/uploads/2021/04/dragon-ball-z.png",
+    "scenes": [
+      "https://jpimg.com.br/uploads/2018/04/dragon-ball-z.jpg",
+      "https://cdn.ome.lt/SWVfOcqwwPdpa1uZLFfp-SUAqGA=/1200x630/smart/extras/conteudos/conteudo_86894_1.jpg",
+      "https://www.98fmcuritiba.com.br/wp-content/uploads/2019/11/18104101/dragon-ball-z-entrara-pro-catalogo-da-netflix-a-partir-de-novembro.jpg",
+      "https://streamingsbrasil.com/wp-content/uploads/2019/10/Dragon-Ball-Z-Kai-ganha-data-de-estreia-na-Netflix.jpg"
+    ],
+    "stars": 5,
+    "category": "anime"
+  }
+]

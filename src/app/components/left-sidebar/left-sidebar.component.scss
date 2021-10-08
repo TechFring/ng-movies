@@ -1,0 +1,45 @@
+@import "../../../styles.scss";
+
+.sidebar {
+  position: fixed;
+  overflow: auto;
+  width: 230px;
+  
+  padding: 25px 0px 10px 30px;
+  border-right: 1px solid $gray-light;
+  font-weight: bold;
+  font-size: 0.8rem;
+}
+
+.sidebar-item {
+  margin-bottom: 16px;
+
+  a {
+    display: flex;
+    align-items: center;
+    padding: 3px 0px;
+  }
+
+  a.active {
+    color: $primary;
+    border-right: 4px solid $primary;
+  }
+}
+
+.sidebar-divider {
+  color: $blue-light;
+  font-size: 0.7rem;
+  margin: 24px 0px 16px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.sidebar-item i,
+.sidebar-user i {
+  width: 30px;
+  font-size: 1.1rem;
+}
+
+.sidebar-user {
+  color: $blue-dark;
+}

@@ -1,1 +1,169 @@
-/* You can add global styles to this file, and also import other style files */
+$primary: #f20574;
+$secondary-light: #ffe2ef;
+$secondary: #f12e2e;
+$green-light: #f2f7ff;
+$gray-light: #e5e8f6;
+$gray: #5c6a6d;
+$blue-light: #76839f;
+$blue: #535e76;
+$blue-dark: #3e4658;
+$yellow: #ff7300;
+$black: #0d0d0d;
+$white: #fff;
+
+%no-select {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+* {
+  box-sizing: border-box;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+  padding: 0px;
+  font-size: 0.9rem;
+}
+
+ul {
+  display: inline;
+  list-style: none;
+  padding: 0px;
+}
+
+img {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: $blue-light;
+  transition: all 0.2s ease-in;
+
+  &:not(.active):hover {
+    color: $blue;
+  }
+}
+
+button,
+input,
+select,
+textarea,
+img,
+a {
+  @extend %no-select;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $blue-dark;
+}
+
+// Buttons
+
+button {
+  border: none;
+  font-weight: bold;
+  padding: 15px 35px;
+  cursor: pointer;
+  transform: all 0.2s ease-in;
+
+  &:not(.btn-floating):active {
+    transform: scale(0.98);
+  }
+}
+
+.btn-secondary {
+  background-color: $secondary-light;
+  color: $secondary;
+  border-radius: 5px;
+
+  &:hover {
+    background-color: darken($secondary-light, 3%);
+  }
+}
+
+.btn-primary {
+  background-color: $primary;
+  color: $white;
+
+  &:hover {
+    background-color: darken($primary, 3%);
+  }
+}
+
+.btn-muted {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 0px;
+  height: 45px;
+  width: 45px;
+  background-color: rgba($gray, 80%);
+  color: $white;
+  padding: 12px;
+  font-size: 1.1rem;
+
+  &:hover {
+    background-color: rgba($gray, 87%);
+  }
+}
+
+.btn-floating {
+  padding: 0px;
+  height: 30px;
+  width: 30px;
+  background: $white;
+  border: 1px solid $gray-light;
+  border-radius: 100%;
+
+  & + & {
+    margin-left: 15px;
+  }
+}
+
+// Text
+
+.text-yellow {
+  color: $yellow;
+}
+
+.text-muted {
+  color: $gray;
+}
+
+// Scrollbar
+
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: $gray-light;
+  border-radius: 20px;
+  border: 6px solid transparent;
+  background-clip: content-box;
+
+  &:hover {
+    background-color: $gray;
+  }
+}

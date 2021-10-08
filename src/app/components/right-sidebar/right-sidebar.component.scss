@@ -1,0 +1,119 @@
+@import "../../../styles.scss";
+
+.sidebar {
+  position: fixed;
+  padding: 25px 0px 0px 25px;
+  height: 100%;
+  border-left: 1px solid $gray-light;
+}
+
+.titles {
+  overflow-y: auto;
+  // min-height: 100vh;
+  height: 100%;
+  padding-bottom: 100px;
+}
+
+.sidebar-header {
+  padding: 0px 20px 25px 0px;
+}
+
+.input-search {
+  position: relative;
+
+  i {
+    position: absolute;
+    left: 15px;
+    top: calc(50% - 0.65rem);
+    font-size: 1.3rem;
+    color: $gray;
+  }
+
+  input {
+    padding: 15px 10px 15px 42px;
+    width: 100%;
+    border: none;
+    border-radius: 20px;
+    background-color: $green-light;
+  }
+}
+
+.search-list {
+  position: absolute;
+  top: 35px;
+  left: 0;
+  border: 1px solid $gray-light;
+  background: $white;
+  width: 100%;
+
+  li {
+    display: flex;
+  }
+  
+  a {
+    padding: 10px 20px;
+    width: 100%;
+  }
+}
+
+.popular-movies,
+.popular-tv-shows,
+.popular-animes {
+  h4 {
+    margin-bottom: 16px;
+  }
+
+  button {
+    margin-top: 16px;
+    width: 100%;
+  }
+}
+
+.popular-tv-shows,
+.popular-animes {
+  margin-top: 32px;
+}
+
+.popular-movies h4 {
+  margin-top: 0px;
+}
+
+
+
+.movie {
+  display: flex;
+
+  img {
+    height: 100px;
+    width: 70px;
+  }
+
+  & + .movie {
+    margin-top: 16px;
+  }
+}
+
+.movie-desc {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  width: 100%;
+
+  h4 {
+    margin: 0px;
+  }
+
+  span {
+    font-size: 0.8rem;
+    color: $gray;
+    margin-bottom: auto;
+  }
+}
+
+.movie-stars i {
+  font-size: 1rem;
+
+  & + i {
+    margin-left: 5px;
+  }
+}

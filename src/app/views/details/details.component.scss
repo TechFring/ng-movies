@@ -1,0 +1,50 @@
+@import "../../../styles.scss";
+
+.name {
+  margin: 0px;
+}
+
+.title-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.scenes {
+  position: relative;
+  margin-bottom: 24px;
+  height: 380px;
+
+  img {
+    position: absolute;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+  }
+}
+
+.section {
+  h2 {
+    margin-bottom: 8px;
+  }
+
+  & + & {
+    margin-top: 32px;
+  }
+
+  pre {
+    background-color: $green-light;
+    width: 100%;
+    padding: 30px;
+    border-radius: 10px;
+    font-family:'Courier New', Courier, monospace;
+    overflow-y: auto;
+  }
+}
+
+.paragraph {
+  font-size: 1.1rem;
+  line-height: 1.2;
+  color: $black;
+  margin: 0px;
+}

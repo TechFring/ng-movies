@@ -1,0 +1,120 @@
+<div class="home">
+  <nav class="categories">
+    <ul>
+      <li>
+        <a routerLink="/movie" routerLinkActive="active">Movie</a>
+      </li>
+
+      <li>
+        <a routerLink="/tv-show" routerLinkActive="active">TV Show</a>
+      </li>
+
+      <li>
+        <a routerLink="/anime" routerLinkActive="active">Anime</a>
+      </li>
+    </ul>
+  </nav>
+
+  <div class="main-title" *ngFor="let title of mainTitle | async">
+    <img [src]="title.cover" alt="Cover" />
+
+    <div class="title-info">
+      <span class="season">
+        {{ title.year }}
+      </span>
+
+      <h1 class="name">
+        {{ title.name }}
+      </h1>
+
+      <span class="genre">
+        {{ title.genre }}
+      </span>
+
+      <div class="options">
+        <button
+          class="btn-primary"
+          routerLink="/{{ title.category }}/{{ title.id }}"
+        >
+          See More
+        </button>
+
+        <button class="btn-muted">
+          <i class="fas fa-plus"></i>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div class="now-playing">
+    <div class="list-header">
+      <h3>Now Playing</h3>
+
+      <div class="options">
+        <button class="btn-floating" (click)="onClickLeftScroll(ulNowPlaying)">
+          <i class="fas fa-chevron-left"></i>
+        </button>
+
+        <button class="btn-floating" (click)="onClickRightScroll(ulNowPlaying)">
+          <i class="fas fa-chevron-right"></i>
+        </button>
+      </div>
+    </div>
+
+    <div class="title-list">
+      <ul #ulNowPlaying>
+        <li
+          class="title-list-item"
+          *ngFor="let title of nowPlaying | async"
+        >
+          <img [src]="title.poster" alt="Poster" />
+
+          <div class="title-info">
+            <button class="btn-muted">
+              <i class="fas fa-plus"></i>
+            </button>
+
+            <button
+              class="btn-primary"
+              routerLink="/{{ title.category }}/{{ title.id }}"
+            >
+              See More
+            </button>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="top-rated">
+    <div class="list-header">
+      <h3>Top Rated Movies</h3>
+
+      <div class="options">
+        <button class="btn-floating" (click)="onClickLeftScroll(ulTopRated)">
+          <i class="fas fa-chevron-left"></i>
+        </button>
+
+        <button class="btn-floating" (click)="onClickRightScroll(ulTopRated)">
+          <i class="fas fa-chevron-right"></i>
+        </button>
+      </div>
+    </div>
+
+    <div class="title-list">
+      <ul #ulTopRated>
+        <li
+          class="title-list-item"
+          *ngFor="let title of topRated | async"
+          routerLink="/{{ title.category }}/{{ title.id }}"
+        >
+          <img [src]="title.scenes[0]" alt="Scene" />
+
+          <div class="title-info">
+            <h4 class="name">{{ title.name }}&nbsp;({{ title.year }})</h4>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>

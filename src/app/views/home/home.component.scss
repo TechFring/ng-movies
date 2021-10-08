@@ -1,0 +1,147 @@
+@import "../../../styles.scss";
+
+.categories {
+  font-weight: bold;
+
+  ul {
+    display: flex;
+    margin: auto 0px;
+  }
+
+  li + li {
+    margin-left: 20px;
+  }
+
+  a.active {
+    color: $blue-dark;
+  }
+}
+
+.main-title {
+  position: relative;
+  margin-top: 24px;
+
+  img {
+    height: 300px;
+    object-fit: cover;
+    object-position: top;
+    filter: brightness(70%);
+  }
+}
+
+.main-title .title-info {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 50px 50px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+
+  .season,
+  .name,
+  .genre {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: $white;
+  }
+
+  .season,
+  .genre {
+    font-size: 0.8rem;
+  }
+
+  .name {
+    font-size: 2.3rem;
+    margin: 8px 0px;
+    transform: scaleY(1.2);
+  }
+
+  .genre {
+    color: $gray-light;
+  }
+
+  .options {
+    display: flex;
+    margin-top: 16px;
+  }
+
+  .btn-muted {
+    margin-left: 8px;
+  }
+}
+
+.now-playing,
+.top-rated {
+  margin-top: 24px;
+}
+
+.title-list-item {
+  position: relative;
+  display: flex;
+
+  & + & {
+    margin-left: 10px;
+  }
+}
+
+.now-playing .title-list-item img {
+  width: 160px;
+  height: 250px;
+}
+
+.top-rated .title-list-item img {
+  width: 230px;
+  height: 170px;
+  filter: brightness(70%);
+  object-fit: cover;
+  object-position: center;
+}
+
+.list-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title-list {
+  width: 100%;
+  max-width: 900px;
+  overflow-y: auto;
+
+  ul {
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+  }
+}
+
+.title-list-item .title-info {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: flex-end;
+  cursor: pointer;
+
+  .btn-primary {
+    width: 100%;
+    padding: 13px 30px;
+  }
+
+  .btn-muted {
+    height: 35px;
+    width: 35px;
+  }
+
+  .name {
+    margin: auto auto 0px 0px;
+    color: $white;
+    line-height: 1.4;
+  }
+}
