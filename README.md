@@ -14,8 +14,16 @@ NG MOVIES
 ## 🚀 Tecnologias
 
 - ✔️ Angular
+- ✔️ TypeScript
+- ✔️ SCSS
+- ✔️ Bootstrap
 
 <br />
+
+## 💻 Demo
+
+<a href="https://ng-movies-ashen.vercel.app/movie" target="_blank">https://ng-movies-ashen.vercel.app/movie</a>
+
 <br />
 
 ## ⚙️ Executando ambiente de desenvolvimento
@@ -38,7 +46,6 @@ npm install
 npm start
 ```
 
-<br />
 <br />
 
 ## 🤝 Créditos
