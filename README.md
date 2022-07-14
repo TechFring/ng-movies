@@ -5,6 +5,12 @@ NG MOVIES
 
 <br />
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/54766216/178964802-a990151d-04cb-4f33-bb16-45da59d0e05e.png">
+</div>
+
+<br />
+
 ## 🚀 Tecnologias
 
 - ✔️ Angular
