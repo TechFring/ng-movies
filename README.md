@@ -16,7 +16,6 @@ NG MOVIES
 - ✔️ Angular
 - ✔️ TypeScript
 - ✔️ SCSS
-- ✔️ Bootstrap
 
 <br />
 
